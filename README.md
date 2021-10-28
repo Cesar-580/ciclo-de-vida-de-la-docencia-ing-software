@@ -1,5 +1,5 @@
 # Ingeniería de Software
-## - Ciclo de vida de la docencia 
+## Ciclo de vida de la docencia 
 
 Grupo de Ingeniería de software:
 
