@@ -11,7 +11,7 @@ Grupo de Ingeniería de software - Ciclo de vida de la docencia
 | Daniel Fernando Robledo Mesa |	dfrobledom@unal.edu.co |	Daniel1996e |	3214276869 |
 | Wilfer Mauricio Chavarria Jaramillo |	wmchavarriaj@unal.edu.co |	MauricioChavarria |	3017829295 |
 | Daniel Restrepo Gomez	| darestrepogo@unal.edu.co |	Daniregomez |	3127271064 |
-| Santiago Cordoba Herrera |	scordobah@unal.edu.co |	scordobah |	3016010256 |
+| Santiago Córdoba Herrera |	scordobah@unal.edu.co |	scordobah |	3016010256 |
 | Faiber Salazar Ruiz |	fsalazarr@unal.edu.co |	fsalazarr |	3104938478 |
 | David Cardona Duque  |	davcardona@unal.edu.co |	celthion |	3005187691 |
 | Pedro Luis Cardona Buenaventura |	plcardonab@gmail.com |	plcardonab |	3042542973 |
