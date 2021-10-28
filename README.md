@@ -3,7 +3,7 @@
 Grupo de Ingeniería de software - Ciclo de vida de la docencia 
 
 | Nombre | Correo | Usuario - Github |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Juan Camilo Silva Ardila |	jucsilvaar@unal.edu.co |	jucsilvaar |	
 | César Augusto Ospina Muñoz |	caospinamu@unal.edu.co |	Cesar-580 |	
 | Luis Miguel Arenas Tamayo |	lmarenast@unal.edu.co |	lmarenast |	
