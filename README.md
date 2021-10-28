@@ -16,4 +16,4 @@ Grupo de Ingeniería de software - Ciclo de vida de la docencia
 | David Cardona Duque  |	davcardona@unal.edu.co |	celthion |
 | Pedro Luis Cardona Buenaventura |	plcardonab@gmail.com |	plcardonab |
 
-[Link del Documento de Drive](https://docs.google.com/document/d/1kHkGLjdsvqeNFbcL60nxlagAgmcWT0BHUAV64VBknpc/edit?usp=sharing).
+[Link del Documento de Drive](https://drive.google.com/drive/folders/10bIY3ZYJ53Uc8Euf4sEybRIGsWKD6SQ6?usp=sharing).
