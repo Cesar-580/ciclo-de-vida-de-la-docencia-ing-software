@@ -3,3 +3,5 @@
 - [Link espina de pescado](https://app.diagrams.net/#G1HTedj2Ye3kWh2rEB91TAcAV84_1r9BqN)
 
 - [Link plantilla Historias de usuario](https://docs.google.com/spreadsheets/d/1zA9IoM4h8QRI5DH5X190VWBNNs6hPvnZ/edit#gid=772231328)
+
+- [Link diagrama de requerimientos](https://app.diagrams.net/#G16otgK53gE6aER65OH1AvW79ohnxexj2-)
