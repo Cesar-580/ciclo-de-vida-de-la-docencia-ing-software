@@ -4,4 +4,8 @@
 
 - [Link plantilla Historias de usuario](https://docs.google.com/spreadsheets/d/1zA9IoM4h8QRI5DH5X190VWBNNs6hPvnZ/edit#gid=772231328)
 
+<<<<<<< HEAD
 - [Link diagrama de requerimientos](https://app.diagrams.net/#G16otgK53gE6aER65OH1AvW79ohnxexj2-)
+=======
+- [Link Diagrama casos de uso](https://app.diagrams.net/#G1Sn7Zz9VzocpL4Y5znVaFcXYI9156qFlm)
+>>>>>>> e9dfd304eaa4ef2f717c9454b6c2a2e074b15678
